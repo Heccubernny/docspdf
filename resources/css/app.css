@@ -1,0 +1,36 @@
+.form-container {
+    width: 100%;
+    max-width: 527.3pt;
+    border-bottom-style: double;
+    border-bottom-width: 1.5pt;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+/* Style for form fields */
+.form-field {
+    margin-bottom: 10px;
+    display: block;
+}
+
+/* Style for labels */
+.form-label {
+    color: #000080;
+    font-size: 16px;
+}
+
+/* Style for text input fields */
+.form-input {
+    width: 100%;
+    border: none;
+    border-bottom: 1.5pt double;
+    font-size: 16px;
+}
+
+/* Style for text area input fields */
+.form-textarea {
+    width: 100%;
+    border: none;
+    border-bottom: 1.5pt double;
+    font-size: 16px;
+}
